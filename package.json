@@ -4,7 +4,7 @@
   "description": "Graph API Webhooks Sample",
   "main": "index.js",
   "scripts": {
-    "build": "netlify build"
+    "build": "netlify deploy"
   },
   "dependencies": {
     "body-parser": "~1.15.0",
