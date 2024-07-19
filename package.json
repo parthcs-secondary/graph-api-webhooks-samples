@@ -4,6 +4,7 @@
   "description": "Graph API Webhooks Sample",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "build": "netlify deploy"
   },
   "dependencies": {
@@ -13,7 +14,7 @@
     "netlify-cli": "17.33.4"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "18.16.1"
   },
   "repository": {
     "type": "git",
